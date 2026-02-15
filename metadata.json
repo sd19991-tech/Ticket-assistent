@@ -1,0 +1,5 @@
+{
+  "name": "Copy of IT Ticket Writing Assistant",
+  "description": "Ein professioneller Schreibassistent für IT-Support-Tickets, der aus unstrukturierten Eingaben strukturierte Tickets mit Titeln, Kategorien, CI-Typen und Symptombeschreibungen erstellt.",
+  "requestFramePermissions": []
+}
